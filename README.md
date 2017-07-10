@@ -18,8 +18,11 @@ Or install it yourself as:
     $ gem install andersen_copyright_tool
 
 ## Usage
+```ruby
+AndersenCopyrightTool::Renderer.copyright '[your name]', '[custom message]'
+```
 
-TODO: Write usage instructions here
+pass in 
 
 ## Development
 
