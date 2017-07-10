@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ryan.andersen117@gmail.com"]
 
   spec.summary       = %q{"Creates a copyright tag with parameters for name"}
-  spec.homepage      = "https://devcamp.com"
+  spec.homepage      = "https://github.com/WizardRyan/andersen_copyright_tool"
   spec.license       = "MIT"
 
 
